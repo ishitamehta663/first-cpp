@@ -1,2 +1,9 @@
 # first-cpp
 hello prgrm
+#include<iostream>
+using namespace std;
+int main()
+{
+cout<<hello!!;
+return o;
+}
